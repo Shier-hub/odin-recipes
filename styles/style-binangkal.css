@@ -1,0 +1,15 @@
+h1 {
+    font-family: "Brush Script MT", cursive;
+    color: orange;
+}
+.one, 
+.two {
+    font-family: "Times New Roman", serif;
+}
+
+.one {
+    color: blue;
+}
+.two {
+    color: red;
+}
